@@ -17,9 +17,9 @@
 
 ### Senior Engineering Manager - Apple, _July 2014 - August 2019_
 
-:zap: :zap: Responsible for providing Developer Tools and services to Internet Services groups at Apple.
-:zap: :zap: Main product areas included CI/CD Infrastructure (Spinnaker, Github Enterprise, Artifactory, Jenkins, and proprietary CI systems) and Quality Engineering services for distributed test execution, results storage, and visualization.
-:zap: :zap: Responsible for setting product and roadmap direction, mentoring individual contributors and managers, managing budget, and guiding high-level technical design.
+<p>:zap: :zap: Responsible for providing Developer Tools and services to Internet Services groups at Apple.</p>
+<p>:zap: :zap: Main product areas included CI/CD Infrastructure (Spinnaker, Github Enterprise, Artifactory, Jenkins, and proprietary CI systems) and Quality Engineering services for distributed test execution, results storage, and visualization.</p>
+<p>:zap: :zap: Responsible for setting product and roadmap direction, mentoring individual contributors and managers, managing budget, and guiding high-level technical design.</p>
 
 #### Senior Softare Engineer - Beats Music
 _Beats Music was aquired by Apple in 2014_
