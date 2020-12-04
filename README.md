@@ -46,5 +46,10 @@ _Beats Music was aquired by Apple in 2014_
 <p>:zap: I have three rescue dogs</p>
 <p>:zap: I love to travel.  My favorite places are Barcelona and Cabo San Lucas</p>
 <p>:zap: I have three rescue dogs</p>
-<p>:zap: In my "spare time" I love to watch Formula 1, play tennis, workout, and cook.  I'll sometimes play [video games](https://www.bungie.net/en/Profile/2/4611686018435017140) too.</p>
+<p>:zap: In my "spare time" I love to watch Formula 1, play tennis, workout, and cook.  I'll sometimes play video games too.</p>
+
+![](assets/apple.png)
+![](assets/arizona.jpeg)
+![](assets/barcelona.jpeg)
+![](assets/bernie.png)
 
