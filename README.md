@@ -48,8 +48,9 @@ _Beats Music was aquired by Apple in 2014_
 <p>:zap: I have three rescue dogs</p>
 <p>:zap: In my "spare time" I love to watch Formula 1, play tennis, workout, and cook.  I'll sometimes play video games too.</p>
 
-![](assets/apple.png)
-![](assets/arizona.jpeg)
-![](assets/barcelona.jpeg)
-![](assets/bernie.png)
 
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" src="https://github.com/whitneyimura/whitneyimura/blob/main/assets/cabo2.jpeg?raw=true">  |  <img width="1604" src="https://github.com/whitneyimura/whitneyimura/blob/main/assets/arizona.jpeg?raw=true">|<img width="1604" src="https://github.com/whitneyimura/whitneyimura/blob/main/assets/barcelona.jpeg?raw=true">|
+|<img width="1604" src="https://github.com/whitneyimura/whitneyimura/blob/main/assets/bernie.png?raw=true">  |  <img width="1604" src="https://github.com/whitneyimura/whitneyimura/blob/main/assets/cabo.png?raw=true">|<img width="1604" src="https://github.com/whitneyimura/whitneyimura/blob/main/assets/apple.png?raw=true">|
+|<img width="1604" src="https://github.com/whitneyimura/whitneyimura/blob/main/assets/car.png?raw=true">  |  <img width="1604" src="https://github.com/whitneyimura/whitneyimura/blob/main/assets/music.png?raw=true">|<img width="1604" src="https://github.com/whitneyimura/whitneyimura/blob/main/assets/pepper.png?raw=true">|
