@@ -40,6 +40,9 @@ _Beats Music was aquired by Apple in 2014_
 
 ### B.S. Economics - Saint Mary's College of California, _2014_
 
+## :zap: Management Philosophy 
+_Under construction.  Coming soon_
+
 ## :zap: Did You Know?...
 
 <p>:zap: I am currently living in Los Angeles (and not looking to relocate :wink:)</p>
