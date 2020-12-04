@@ -33,3 +33,18 @@ _Beats Music was aquired by Apple in 2014_
 ### Software Engineer - Afar Media, _January 2013 - August 2013_
 
 
+## :zap: Education
+<p align='center'>
+  <img height="60" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHVUazLaCxjAw/company-logo_200_200/0/1543520159811?e=1615420800&v=beta&t=HXtKO3MllXeGBMeA3Ocd6hLxmZbpHJgwP0MfAfkgd6g">
+</p>
+
+### B.S. Economics - Saint Mary's College of California, _2014_
+
+## :zap: Did You Know?...
+
+<p>:zap: I am currently living in Los Angeles (and not looking to relocate :wink:)</p>
+<p>:zap: I have three rescue dogs</p>
+<p>:zap: I love to travel.  My favorite places are Barcelona and Cabo San Lucas</p>
+<p>:zap: I have three rescue dogs</p>
+<p>:zap: In my "spare time" I love to watch Formula 1, play tennis, workout, and cook.  I'll sometimes play [video games](https://www.bungie.net/en/Profile/2/4611686018435017140) too.</p>
+
