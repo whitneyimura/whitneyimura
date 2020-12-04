@@ -1,5 +1,6 @@
 # Whitney Imura
 
+![»](https://media-exp1.licdn.com/dms/image/C5616AQEfkj3bTyjO1g/profile-displaybackgroundimage-shrink_350_1400/0/1551642690120?e=1612396800&v=beta&t=el5B3X43uomzOiTc4NakAo2m7w4MD096Q_5NEYAPFF0)
 
 ## :zap: Experience
 
