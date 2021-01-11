@@ -45,7 +45,6 @@ _Under construction.  Coming soon_
 
 ## :zap: Did You Know?...
 
-<p>:zap: I am currently living in Los Angeles (and not looking to relocate :wink:)</p>
 <p>:zap: I love to travel.  My favorite places are Barcelona and Cabo San Lucas</p>
 <p>:zap: I have three rescue dogs</p>
 <p>:zap: In my "spare time" I love to watch Formula 1, play tennis, workout, and cook.  I'll sometimes play video games too.</p>
